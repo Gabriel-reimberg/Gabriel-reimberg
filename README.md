@@ -16,7 +16,7 @@
 (☞ﾟヮﾟ)☞ entre outras coisas que não são da área de tecnologia...
 
 <div style="display: inline_block"><br>
-<img align="lefth" alt="l-death_note" src="https://media.giphy.com/media/lgpSZzZWHeMLu/giphy.gif" height= "350" width="450">
+<img align="lefth" alt="l-death_note" src="https://media.giphy.com/media/lgpSZzZWHeMLu/giphy.gif" height= "175" width="225">
 </div>
 
 
