@@ -9,6 +9,7 @@
 <br>
 <br>
 <strong>💻Pretendo aprender</strong> <br>
+• Automação <br>
 • Ciencia da Computação <br>
 • Java <br>
 • C# <br>
