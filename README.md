@@ -1,3 +1,5 @@
+<!--
+
 **Olá, meu nome é Gabriel**
 
 <strong>📖 -Atualmente estou estudando...</strong><br>
@@ -20,6 +22,8 @@
 <img align="lefth" alt="l-death_note" src="https://media.giphy.com/media/lgpSZzZWHeMLu/giphy.gif" height= "175" width="225">
 </div>
 
+--> 
+:)
 
 <div style="display: inline_block"><br>
 <div style="display: inline_block"><br>
