@@ -1,6 +1,6 @@
 # Olá :)
 
-Atualmente estudo sistemas embarcados, microcontroladores (ESP32) e desenvolvimento de algoritmos para robótica. Também desenvolvo conhecimentos em Python e C++, aplicando em projetos de simulação, controle e sistemas embarcados.
+Atualmente estudo sistemas embarcados, microcontroladores (ESP32) e desenvolvimento de algoritmos para robótica. Também estou estudando Python e C++, aplicando em projetos de simulação, controle e sistemas embarcados.
 
 Tenho grande interesse em:
 - Robótica competitiva  
