@@ -1,42 +1,20 @@
-<!--
+# Olá :)
 
-**Olá, meu nome é Gabriel**
+Meu nome é Gabriel.  
+Sou estudante de Engenharia de Controle e Automação.
 
-<strong>📖 -Atualmente estou estudando...</strong><br>
-• Git <br>
-• Github <br>
-• JavaScript <br>
-• Html5 <br>
-• Css3 <br>
-<br>
-<br>
-<strong>💻Pretendo aprender</strong> <br>
-• Automação <br>
-• Ciencia da Computação <br>
-• Java <br>
-• C# <br>
-• Python
-(☞ﾟヮﾟ)☞ entre outras coisas que não são da área de tecnologia...
+Atualmente estudo sistemas embarcados, microcontroladores (ESP32) e desenvolvimento de algoritmos para robótica. Também desenvolvo conhecimentos em Python e C++, aplicando em projetos de simulação, controle e sistemas embarcados.
 
-<div style="display: inline_block"><br>
-<img align="lefth" alt="l-death_note" src="https://media.giphy.com/media/lgpSZzZWHeMLu/giphy.gif" height= "175" width="225">
-</div>
+Tenho grande interesse em:
+- Robótica competitiva  
+- Controle de sistemas  
+- Sistemas embarcados  
+- Matemática aplicada  
 
---> 
-:)
+---
 
-<div style="display: inline_block"><br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="gabriel-reimberg-Python" height="30" width="40" 
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="gabriel-reimberg-javascript" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
- <img align="center" alt="gabriel-reimberg-html5" height="30" width="40" 
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="gabriel-reimberg-html5" height="30" width="40" 
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="gabriel-reimberg-html5" height="30" width="40" 
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align="center" alt="gabriel-reimberg-html5" height="30" width="40" 
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div>
-</div>
+## Contato :|
+[LinkedIn](https://www.linkedin.com/in/gabrielprsp/)
+
+Email: gabrielprspcontato@gmail.com
+
